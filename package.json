@@ -47,7 +47,8 @@
     "vite": "^5.0.0"
   },
   "resolutions": {
-    "storybook/**/jackspeak": "2.3.6",
+    "jackspeak": "2.1.1",
+    "storybook/**/jackspeak": "2.1.1",
     "**/globby": "^11.0.1"
   }
 }
